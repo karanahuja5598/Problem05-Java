@@ -3,7 +3,7 @@ package cd.get.ready.algorithms;
 import org.junit.Assert;
 import org.junit.Test;
 
-class EuclidsAlgorithmTest {
+public class EuclidsAlgorithmTest {
 
     @Test
     public void testOne(){
